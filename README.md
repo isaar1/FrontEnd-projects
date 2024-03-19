@@ -11,8 +11,8 @@
     <h2>Projects:</h2>
     <ul>
         <img align="right" alt="coding" width="500" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
-        <li><a href="project1/index.html">Project 1</a></li>
-        <li><a href="project2/index.html">Project 2</a></li>
+        <li><a href="netflix-clone-by-isaar.netlify.app">NETFLIX-Project1</a></li>
+        <li><a href="myntra-clone-by-isaar.netlify.app">MYNTRA-Project2</a></li>
         <!-- Add more projects as needed -->
     </ul>
 </body>
