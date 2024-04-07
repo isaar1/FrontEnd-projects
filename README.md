@@ -9,6 +9,10 @@ Welcome to my frontend clones repository! 🚀 This repository contains a collec
 - [How to Use](#how-to-use)
 - [License](#license)
 
+<span style="float: left; width: 30px;">
+    <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="GIF" style="width: 50%;">
+</span>
+
 ## Clones 🖥️
 
 Here's a list of the clones included in this repository:
