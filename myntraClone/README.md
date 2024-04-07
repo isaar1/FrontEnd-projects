@@ -20,10 +20,10 @@ This project aims to recreate the user interface and design of the Myntra websit
 4. Explore the various pages and components of the Myntra clone.
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
+![Homepage](myntraClone/new/screenshot.png)
 
 ## Gif
-![Gif}()
+![Gif](myntraClone/new/myntra-ezgif.com-video-to-gif-converter.gif)
 
 ## Credits
 - This project is created by Mohd Isaar.
