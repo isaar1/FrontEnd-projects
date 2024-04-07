@@ -13,8 +13,8 @@
     <img align="right" alt="coding" width="500" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
     <ol>
         <li> <a href="https://amazonclone-by-isaar.netlify.app">https://amazonclone-by-isaar.netlify.app </a></li>
-        <li> <a href="https://clonenetflix-by-isaar.netlify.app">https://clonenetflix-by-isaar.netlify.app </a></li>
-        <li> <a href="myntra-clone-by-isaar.netlify.app">myntra-clone-by-isaar.netlify.app </a></li>
+        <li> <a href="https://netflix-clone-by-isaar.netlify.app/">https://netflix-clone-by-isaar.netlify.app/ </a></li>
+        <li> <a href="https://myntra-clone-by-isaar.netlify.app/">https://myntra-clone-by-isaar.netlify.app/ </a></li>
         <!-- Add more projects as needed -->
     </ol>  
 </body>
