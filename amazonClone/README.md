@@ -24,10 +24,11 @@ The Non-Responsive Amazon Website is a static representation of the Amazon e-com
 To view the non-responsive Amazon website, simply open the `index.html` file in a web browser.
 
 ## Screenshot 📷
-![screenshot]()
+![photo](https://github.com/isaar1/FrontEnd-projects/assets/157712562/88252029-e505-469d-96f3-903b9389ac77)
 
 ## Gif 📷
-![Gif]()
+![Gif](https://github.com/isaar1/FrontEnd-projects/assets/157712562/cf246dd6-6225-4133-a5a5-09a80bc13e4b)
+
 
 ## Disclaimer ⚠️
 
